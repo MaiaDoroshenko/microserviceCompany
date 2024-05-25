@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: registy-server
+
+server:
+  port: 8761
+
+eureka:
+  client:
+    registry-with-eureka: false
+    fetch-registry: false
+
+
