@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38567c37-27bc-49b2-b183-ea9ec5212d2a" name="Changes" comment="" />
+    <list default="true" id="38567c37-27bc-49b2-b183-ea9ec5212d2a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/companies-crud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/companies-crud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/companies-crud/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/companies-crud/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2geXpczh2CQEGrdIXkIwcQaCusL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/maiad/OneDrive/Escritorio/DebugueandoMicroservicios/companies-crud"
   }
 }]]></component>
